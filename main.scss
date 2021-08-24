@@ -20,7 +20,7 @@ body {
   background-color: #fff;
   transform-origin: top left;
   padding: 4rem;
-  max-width: 120rem;
+  width: 100vw;
   min-height: 100vh;
 
   //Display menu and rotation screen👇👇
@@ -92,7 +92,7 @@ body {
   // 👇👉the content text and img
   &__content {
     padding: 10rem;
-    width: 120rem;
+    max-width: 130rem;
     margin: 0 auto;
 
     h2 {
